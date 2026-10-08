@@ -13,13 +13,13 @@ This repository contains all the experiments performed as part of the Cloud Comp
 ## Experiment List
 |  Title   |  Folder  |
 |----------|----------|
- Cloud Lab 1 | https://github.com/Sagarnayak398/cloud-lab1.git|
- CloudSim Simulation (Day 1) | https://github.com/Sagarnayak398/cloudsim-day1.git |
- Salesforce Mail Service | https://github.com/Sagarnayak398/salesforce-DC-mail-service.git |
- Image Processing using Microsoft Azure | https://github.com/Sagarnayak398/microsoft-azure-image-Processing.git |
- Video Streaming using AWS (S3 and CloudFront) | https://github.com/Sagarnayak398/AWS-Video-Streaming.git |
- Static Web App using AWS S3 | https://github.com/Sagarnayak398/Static-web-app-using-s3-AWS.git |
- AWS EC2 Instance Creation | https://github.com/Sagarnayak398/AWS-EC2-Instance-Creation.git |
+ Cloud Lab 1 | https://github.com/TwTkarthik/cloud-lab1.git|
+ CloudSim Simulation (Day 1) | https://github.com/TwTkarthik/cloudsim-day1.git |
+ Salesforce Mail Service | https://github.com/TwTkarthik/salesforce-DC-mail-service.git |
+ Image Processing using Microsoft Azure | https://github.com/TwTkarthik/microsoft-azure-image-Processing.git |
+ Video Streaming using AWS (S3 and CloudFront) | https://github.com/TwTkarthik/AWS-Video-Streaming.git |
+ Static Web App using AWS S3 | https://github.com/TwTkarthik/Static-web-app-using-s3-AWS.git |
+ AWS EC2 Instance Creation | https://github.com/TwTkarthik/AWS-EC2-Instance-Creation.git |
 
 ## Tools & Technologies Used
 - Amazon Web Services (S3, CloudFront, EC2)
